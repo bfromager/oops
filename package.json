@@ -1,8 +1,8 @@
 {
   "name": "oops",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "Bastok",
+  "homepage": "http://www.bastok.fr/",
   "private": true,
   "scripts": {
     "start": "ionic-app-scripts serve",
